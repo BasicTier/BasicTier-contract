@@ -92,8 +92,5 @@ contract basictier {
 
     function getUserBanlance()public view returns(uint){
         return info[msg.sender].depositAmount;
-    }
-
-    
+    }    
 }
-
