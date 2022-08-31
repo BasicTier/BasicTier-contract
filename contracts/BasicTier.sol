@@ -83,14 +83,3 @@ contract basictier {
         return info[msg.sender];
 
     }
-
-    function getUserDepositInfo(uint _index)public view returns(userInfo memory){
-
-        return info[msg.sender];
-
-    }
-
-    function getUserBanlance()public view returns(uint){
-        return info[msg.sender].depositAmount;
-    }    
-}
