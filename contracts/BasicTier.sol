@@ -9,7 +9,6 @@ contract basictier {
     uint public index;
     uint public index2;
     uint public vaultAmount;
-
     struct userInfo{
         address valutAddress;
         address owner;
