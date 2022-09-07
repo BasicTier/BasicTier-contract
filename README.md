@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/BasicTier/BasicTier-contract/main/Images/BasicTier.jpg)
+
 # BasicTier
 
 ## Overview
