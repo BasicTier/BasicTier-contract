@@ -17,6 +17,7 @@ contract basictier {
         uint withdrawalTime;
         uint withdrawalAmount;
     }
+    
     mapping(address=> userInfo) info;
     userInfo[] public allDepositInfo;
     userInfo[]public allWithdrawalInfo;
