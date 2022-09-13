@@ -94,4 +94,3 @@ contract basictier {
         return info[msg.sender].depositAmount;
     }    
 }
-
